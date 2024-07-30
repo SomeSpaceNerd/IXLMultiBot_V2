@@ -1,0 +1,4 @@
+## Pip requirements text file
+selenium>=4.23.1 
+colorama>=0.4.6 
+numpy>=2.0.1 
