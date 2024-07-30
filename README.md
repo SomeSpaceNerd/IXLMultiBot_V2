@@ -1,5 +1,5 @@
 # Why is This Important?
-This is important because this is one of the first function IXL Bot there is, now updated to the most recent version of Selenium with more/better features and constant support.
+This is important because this is one of the first functional IXL Bot there is, now updated to the most recent version of Selenium with more/better features and constant support.
 
 This is still a work in progress! It is still in active development, currently with only option 1 being functional.
 # What can it do
