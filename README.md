@@ -1,7 +1,7 @@
 # Why is This Important?
 This is important because this is one of the first function IXL Bot there is, now updated to the most recent version of Selenium with more/better features and constant support.
 
-
+This is still a work in progress! It is still in active development, currently with only option 1 being functional.
 # What can it do
 
 it can:
@@ -29,7 +29,7 @@ No this is not a virus. It is open source so you can check the code.
 # What works?
 Still being developed,
 1. Option 1 is finished and works 100% correctly
-2. Finished in the code, outdated and not optimized
+2. Unfinished in the code
 3. Nonexistant (?)
 4. Unfinished in the code
 5. Unfinished in the code
