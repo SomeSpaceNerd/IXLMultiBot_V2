@@ -29,7 +29,7 @@ No this is not a virus. It is open source so you can check the code.
 # What works?
 Still being developed,
 1. Option 1 is finished and works 100% correctly
-2. Present in code, not done
+2. Finished in the code, outdated and not optimized
 3. Nonexistant (?)
 4. Unfinished in the code
 5. Unfinished in the code
