@@ -27,9 +27,12 @@ Works by using an automation tool called Selenium, in python.
 No this is not a virus. It is open source so you can check the code. 
 
 # What works?
-Still in development but only option 1 and 2 work. 
-i have 3 done, you can try running it but you will get errors, i am still fixing that part of the code.
-Same with the scraper, it only works with some questions until i add new Xpaths but i am too tired to do it today, so it expect it in a couple days.
+Still being developed,
+1. Option 1 is finished and works 100% correctly
+2. Present in code, not done
+3. Nonexistant (?)
+4. Unfinished in the code
+5. Unfinished in the code
 
 # INFO
 this code uses over 300 lines of code and was coded in all one day, so please expect some errors along the way.
