@@ -16,11 +16,12 @@ Works by using an automation tool called Selenium, in python.
 # How do I download it?
 
 1. First of all make sure you have python 3 installed, if you dont google how to download it.
-2. Then, while in the directory containing the files, run this command pip install -r requirements.txt
-3. Update your chrome browser to the most recent version
-4. Download and install the chromedriver for your OS from here https://googlechromelabs.github.io/chrome-for-testing/#stable
-5. Run the program
-6. Profit?
+2. Either download the repository as a zip and extract it, or git clone it
+3. Then, while in the directory containing the files, run this command pip install -r requirements.txt
+4. Update your chrome browser to the most recent version
+5. Download and install the chromedriver for your OS from here https://googlechromelabs.github.io/chrome-for-testing/#stable
+6. Run the program
+7. Profit?
 
 # Is this a Virus?
 No this is not a virus. It is open source so you can check the code. 
